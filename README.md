@@ -3,7 +3,9 @@ This repository is a collection of the exercises and projects I have done on [Br
 
 | Exercises and Projects  |  Tags | Live |
 |:-------------|---|---|
-| Coffee Shop | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="20" height="20"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="20" height="20"/> |[Live](https://aramatsolrac.github.io/BrainStation/coffee_shop/) |
+| Coffee Shop | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="20" height="20"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="20" height="20"/> | [Live](https://aramatsolrac.github.io/BrainStation/coffee_shop/) |
+| CSS Positioning | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="20" height="20"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="20" height="20"/> |[Live](https://aramatsolrac.github.io/BrainStation/box_positioning/) |
+| Travel Site | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="20" height="20"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="20" height="20"/> | [Live](https://aramatsolrac.github.io/BrainStation/travelsite/) |
 
 
 
