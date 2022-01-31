@@ -1,5 +1,5 @@
 # BrainStation Web Development Bootcamp
-This repository is a collection of the exercises and projects I have done on [BrainStation Web Development Bootcamp](https://brainstation.io/course/online/remote-web-development-bootcamp).
+This repository is a collection of projects I have done on [BrainStation Web Development Bootcamp](https://brainstation.io/course/online/remote-web-development-bootcamp).
 
 | Projects |  Tags | Live |
 |:-------------|---|---|
