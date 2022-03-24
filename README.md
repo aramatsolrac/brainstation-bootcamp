@@ -17,3 +17,5 @@ This repository is a collection of projects I have done on [BrainStation Web Dev
 ## Author
 - Linkedin - [Tamara Carlos](https://www.linkedin.com/in/tamaracarlos/)
 - Twitter - [@aramatsolrac](https://twitter.com/aramatsolrac)
+
+<hr>
